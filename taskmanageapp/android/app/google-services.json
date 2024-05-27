@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "646042829721",
+    "firebase_url": "https://taskmanagerapp-9f056-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "taskmanagerapp-9f056",
+    "storage_bucket": "taskmanagerapp-9f056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646042829721:android:33e5019f199cb0acdc4908",
+        "android_client_info": {
+          "package_name": "TaskManeger.App"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pg5XV9zGOzy-Pe3ZhVFPjKWaDIKesQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646042829721:android:da6d0d5a7bf88110dc4908",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pg5XV9zGOzy-Pe3ZhVFPjKWaDIKesQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646042829721:android:e6b9fe28fa0295d4dc4908",
+        "android_client_info": {
+          "package_name": "com.taskmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6pg5XV9zGOzy-Pe3ZhVFPjKWaDIKesQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
